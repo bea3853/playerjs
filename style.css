@@ -1,0 +1,18 @@
+.videotela{
+
+padding:15px;
+  display:block;
+  margin-bottom: 10px auto;
+  }
+  h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  button{
+   margin:2px ;
+   padding:0px 5px;
+   font-size:21px;
+border: white;
+color:black;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  }
